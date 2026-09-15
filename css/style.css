@@ -3,7 +3,7 @@ html {
 }
 
 body{
-    background-color: rgb(93, 141, 182);
+    background-color: rgb(149, 181, 210);
 }
 
 h1 {
@@ -19,7 +19,7 @@ h2 {
 
 p {
     font-family: Helvetica;
-    color: yellow;
+    color: #003366;
 }
 
 ul{
